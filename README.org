@@ -1,0 +1,46 @@
+#+TITLE: xbushin: Create Virtual Monitors in X11
+#+STARTUP: showall
+#+ATTR_HTML: :alt xbushin logo :width 300px
+[[file:path/to/logo.png]]
+
+* xbushin: Create Virtual Monitors in X11
+
+#+BEGIN_QUOTE
+Seamlessly create and manage virtual monitors on your Linux system with X11. Make the most out of your screen real estate.
+#+END_QUOTE
+
+* Installation
+** Requirements
+   - Linux with X11 installed
+   - gcc and make
+
+** Build from source
+TODO
+* Usage
+After installation, run =xbushin= to start:
+
+TODO
+** Command Line Options
+TODO
+
+* Features
+  - Create virtual monitors
+  - Drag and drop windows between virtual monitors
+  - Hotkeys for quick monitor switching
+  - Save and load multiple monitor configurations
+
+* Configuration
+Configuration files are located in =~/.config/xbushin/=. For detailed configuration options, refer to [[file:docs/Configuration.org][Configuration.org]].
+
+* Contributing
+See [[file:CONTRIBUTING.org][CONTRIBUTING.org]] for how to contribute to xbushin.
+
+* License
+TODO
+
+* Credits
+TODO
+
+See also the list of [[https://github.com/yourusername/xbushin/contributors][contributors]] who participated in this project.
+
+Made with a spare keyboard, a broken keyboard, a monitor and a lot of ☕. Contributions are welcome!
